@@ -12,7 +12,7 @@ A clean and responsive weather application built with React and Vite. Get curren
 
 ## 🚀 Live Demo
 
-[View Live App](https://mufaris32.github.io/simple_weather_app) *(Update this link after deployment)*
+[View Live App](https://simple-weather-app-sooty-chi.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -61,8 +61,7 @@ This app is deployed using GitHub Pages. To deploy your own version:
 
 ## 📱 Screenshots
 
-*(Add screenshots of your app here)*
-
+![App Screenshot](/src/assets/Demo_Scr.shot.png) 
 ## 🤝 Contributing
 
 1. Fork the repository
